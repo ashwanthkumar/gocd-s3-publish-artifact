@@ -1,5 +1,7 @@
 # S3 Artifact Publish (Task Plugin)
 
+[![Build Status](https://travis-ci.org/ashwanthkumar/gocd-s3-publish-artifact.svg?branch=master)](https://travis-ci.org/ashwanthkumar/gocd-s3-publish-artifact)
+
 Task Plugin that allows to push artifacts from pipeline to S3.
 
 TODO: More details
