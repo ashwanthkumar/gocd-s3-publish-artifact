@@ -4,7 +4,7 @@
 
 Task Plugin that allows to push artifacts from pipeline to S3.
 
-TODO: More details
+![Add Publish To S3 Task](https://raw.githubusercontent.com/ashwanthkumar/gocd-s3-publish-artifact/master/assets/add_new_task.png)
 
 ## Compiling
 In order to compile the project, you need to download the go-plugin-api-current.jar from the Go-Server. The best way is to install the 14.3.0 version of plugin in the `sdk/` folder using the below command.
