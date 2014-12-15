@@ -18,7 +18,8 @@
             <groupId>com.thoughtworks.go</groupId>
             <artifactId>go-plugin-api</artifactId>
             <version>${go.version}</version>
-            <scope>provided</scope>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/sdk/go-plugin-api-current.jar</systemPath>
         </dependency>
 
         <dependency>
